@@ -8,5 +8,5 @@ This project demonstrates **sentiment analysis** using machine learning models t
 
 To explore the full analysis and code, visit the Jupyter notebook in the repository:
 
-
+https://github.com/olivercareyncl/sentiment-analysis-machine-learning-methods/blob/main/sentiment-analysis-machine-learning%20(1).ipynb
 
